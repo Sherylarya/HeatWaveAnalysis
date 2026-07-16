@@ -1,0 +1,36 @@
+name: heatwave
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  # data access
+  - intake-esgf
+  - xarray
+  - dask
+  - netcdf4
+  - h5netcdf
+  - cftime
+  - nc-time-axis
+  - flox
+  - bottleneck
+  # scientific stack
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  - metpy
+  - xclim
+  # plotting
+  - matplotlib
+  - cartopy
+  - seaborn
+  # jupyter
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  # geo / cities
+  - geopandas
+  - regionmask
+  - pip
+  - pip:
+      - tqdm
