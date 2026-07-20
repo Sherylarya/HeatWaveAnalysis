@@ -1,0 +1,9 @@
+city,period,hot_days,hot_nights,hw_events,hw_days,hn_events,hn_days
+Charlotte,baseline,7.68,7.68,1.1,4.35,0.77,2.68
+Charlotte,future,34.16,37.32,4.55,27.42,4.16,30.19
+Miami,baseline,7.68,7.68,1.03,4.06,0.61,2.9
+Miami,future,19.32,28.61,2.19,13.0,2.65,22.45
+Phoenix,baseline,7.68,7.68,1.32,5.32,0.87,3.74
+Phoenix,future,17.06,18.0,2.74,12.77,2.42,13.48
+Tucson,baseline,7.68,7.68,1.39,5.84,0.81,3.0
+Tucson,future,15.77,17.32,2.61,13.26,2.39,12.9

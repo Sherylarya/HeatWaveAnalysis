@@ -3,3 +3,6 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# keep the small extracted city netCDF; still ignore raw model output
+!data/*.nc
